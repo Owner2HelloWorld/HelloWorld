@@ -1,0 +1,11 @@
+masukkin pulau ke layer" indo
+benerin nama var
+masukkin sprite soal
+assign kj
+status bar (nama, puzzle collected, region success)
+var nama, puzzle, region, 
+sum_selesai, jawa_selesai dll isinya 0 dan 1 jika 1 sudah beres, 0 belum
+setiap reload akan d cek jika 1 akan d kasih ceklist 
+terminate ketika nosoal sudah 5 lalu cek score 5  maka
+tambah 1 puzzle , ganti var selesai jadi 1 
+
